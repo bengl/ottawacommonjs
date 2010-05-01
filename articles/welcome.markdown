@@ -5,7 +5,7 @@ Node: v0.1.93
 
 **Ottawa CommonJS** is a group of JavaScript enthusiasts in Ottawa, Canada,  who think that JavaScript doesn't have to be only in web browsers.  We meet semi-regularly and informally at [The Code Factory].  Stay tuned here for details on the next meetup!
 
-This website is powered by [Node.js] and [Wheat] and is forked from [howtonode.org].  If you'd like to contribute to this website, feel free to [fork].
+This website is powered by [Node.js] and [Wheat] and is forked from [howtonode.org].  If you'd like to contribute to this website, feel free to [fork].  In fact, please do, since this site needs a new theme!
 
 ### What is CommonJS? ###
 
