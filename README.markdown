@@ -1,3 +1,9 @@
+# OttawaCommonJS.org
+
+This is ottawacomonjs.org's source, forked from HowToNode.org.  What follows is the original README.markdown
+
+---
+
 # HowToNode.org
 
 This is a community supported blog about how to program in nodejs.
